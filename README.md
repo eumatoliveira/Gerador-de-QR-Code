@@ -2,6 +2,8 @@
 
 Um gerador de QR Code moderno e intuitivo, desenvolvido com HTML, CSS e JavaScript puro. Crie QR codes personalizados em segundos!
 
+![image](https://github.com/eumatoliveira/Gerador-de-QR-Code/blob/main/Screenshot_3.png)
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![HTML](https://img.shields.io/badge/HTML-5-orange.svg)
